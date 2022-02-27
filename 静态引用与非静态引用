@@ -1,0 +1,15 @@
+package how;
+
+public class Demo2 {
+    public static void main(String[] args) {
+        // Student.say();静态方法引用
+        //实例化这个类
+        //new Student().say();非静态方法引用
+        //对象类型  对象名 =对象值
+        Demo2 demo2=new Demo2();
+        demo2.say();
+    }
+    public void say(){
+        System.out.println(6);
+    }
+}

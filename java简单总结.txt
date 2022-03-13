@@ -1,0 +1,103 @@
+EE
+SE
+ME
+关键字 class int public private static final 书上26页
+
+标识符 变量名 常量名 方法的名字 类名
+$ a-z _   可以作为开头
+0-9       不可以作为开头
+{
+ int i=1;  作用域
+}
+
+byte int 4 char long   short 
+8 
+float double
+
+
+boolean
+
+a += 5     a=a+5
+
+*=
+/=
+%=
+
+> < >= <=  true false
+
+ &&  与
+ || （） 或
+! 取反
+
+
+
+
+if()
+{} 
+else if()
+{}
+else if()
+{}
+else if()
+{}
+else
+{}
+
+for( 初始化; 布尔表达式; 每次循环后执行的语句)
+{
+	break;
+	continue;
+}
+
+while(布尔表达式)
+{
+}
+
+do
+{
+
+}while(布尔表达式);
+
+switch( 变量 )
+{
+	case 'e':
+		;
+		;
+		;
+		break;
+	case 'c':
+		;
+		;
+		;
+		break;
+	default:
+		;
+		;
+		;
+		break;
+}
+
+
+修饰符 返回值 函数名(  可以有若干个参数)
+{
+}
+
+public static void main(String[] args)
+{
+}
+
+
+
+int[] array = new int[100];
+int[] array = {1,2,3,4,5};
+
+array.length()
+
+array[0]
+array[1]
+
+Random Scanner  
+
+^ >>
+switch
+continue;

@@ -1,8 +1,0 @@
-@author作者名
-@version版本号
-@since指明最早使用的JDK版本
-@param参数名
-@return返回值情况
-@throws异常抛出情况
-
-生成Javadoc：javadoc  -encoding UTF-8 -charset UTF-8 Doc.java

@@ -1,4 +1,0 @@
-IDEA开发工具快捷方式：①psvm
- public static void main(String[] args) {
-②sout
-System.out.println();
